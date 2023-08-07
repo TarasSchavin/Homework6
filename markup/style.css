@@ -5,7 +5,6 @@
     padding: 3px;
     margin: 3px;
     box-shadow: 0 5px 5px rgba(224, 42, 118, 0.918);
-    display: inline-block;
     width: calc(33.33% - 32px);
     text-align: center;
         }
